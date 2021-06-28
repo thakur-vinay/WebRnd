@@ -1,0 +1,128 @@
+#main{
+
+    margin-top:50px;
+    text-align:center;
+
+
+}
+img{
+
+    padding-top:50px;
+    width: 100px;
+}
+#header{
+    line-height:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    color:gray;
+}
+#header1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:100;
+    color:gray;
+}
+p.text{
+    font-size: 30px;
+
+}
+
+p.subtext{
+    font-size: 15px;
+}
+
+p.bottomtext{
+    line-height:0;
+    font-size: 11px;
+}
+a.cre_acct{
+
+    font-size:15px;
+    color:blue;
+    text-decoration: none;
+    padding-top:10px;
+}
+
+img.user-logo{
+    height:150px;
+    width:350px;
+}
+
+#login_box{
+    height:317px;
+    width:350px;
+    background-color: #f2f2f2;
+    margin-left:auto;
+    margin-right:auto;
+    border-style:outset;
+    border-width:1px;
+
+}
+
+input.email{
+    height:25px;
+    width:250px;
+    background-color:Khaki;
+    font-size:13px;
+    color:silver;
+   text-indent: 10px;
+   border-style:line;
+   margin-top: 10%;
+
+}
+
+input.submit{
+    height:30px;
+    width:257px;
+    background-color:DodgerBlue;
+    font-size:14px;
+    color:white;
+    border-radius:5px;
+    margin-top:5px;
+}
+
+a.help{
+    font-size:12px;
+    color:blue;
+    text-decoration: none;
+    padding-top:10px;
+    float:right;
+    margin-right:50px;
+}
+
+img.logo{
+    position:relative;
+    display: inline-block;
+    width:15px;
+    height:15px;
+
+}
+#bottom-footer{
+    background-color:white;
+    height:25px;
+    width:100%;
+    border-top: 1px #e4e4e4 solid;
+    border-bottom: 1px #e4e4e4 solid;
+    position:fixed;
+    bottom:0;
+
+}
+
+.float-left{
+    font-size:12px;
+    color:black;
+    text-decoration:none;
+}
+
+.float-right{
+    font-size:12px;
+    float:right;
+    margin-right:10px;
+}
+body{
+    margin:0;
+    height:100%;
+
+}
+html{
+    height:100%;
+}
